@@ -1,6 +1,16 @@
-
+header {
+    background: #0B0B47;
+    color: #fff;
+    width: 100%;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+body {
+    background: #1517A6;
+    color: #fff;
+}
 /*media query*/
-@media only screen and (max-width: 800px) {
+/*@media only screen and (max-width: 800px) {
     body {
         background-color: rgb(158, 206, 223);
     }
@@ -10,3 +20,4 @@
         background-color: white;
     }
 }
+*/
