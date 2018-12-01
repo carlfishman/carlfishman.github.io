@@ -8,6 +8,7 @@ header {
 body {
     background: #1517A6;
     color: #fff;
+    margin: 0;
 }
 /*media query*/
 /*@media only screen and (max-width: 800px) {
