@@ -8,6 +8,13 @@ header {
 body {
     background: #1517A6;
     color: #fff;
+    margin: 0;
+}
+.navbar {
+    top: 0;
+    right: 0;
+    left: 0;
+    position: sticky;
 }
 /*media query*/
 /*@media only screen and (max-width: 800px) {
